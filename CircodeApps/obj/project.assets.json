@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\CircodeApps\\CircodeApps.csproj",
+      "projectUniqueName": "C:\\CircodeApps\\CircodeApps.csproj",
       "projectName": "CircodeApps",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\CircodeApps\\CircodeApps.csproj",
+      "projectPath": "C:\\CircodeApps\\CircodeApps.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\CircodeApps\\obj\\",
+      "outputPath": "C:\\CircodeApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
